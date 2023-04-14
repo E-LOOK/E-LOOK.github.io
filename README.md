@@ -1,8 +1,8 @@
 Link to the site:
-https://e-look.github.io/
-![APP MOCK UPS](https://user-images.githubusercontent.com/97807374/232017794-0df1307b-77ee-4ae0-9c1e-c36895962c35.png)
 # E-look.github.io
 This repository contains the code for the LOOK APP website and it has a brief overview of the features, products and services displayed in the original App.
+https://e-look.github.io/
+![APP MOCK UPS](https://user-images.githubusercontent.com/97807374/232017794-0df1307b-77ee-4ae0-9c1e-c36895962c35.png)
 The home page
 ![Screenshot (12)](https://user-images.githubusercontent.com/97807374/162833091-0914250a-db7e-4758-a1bb-a5dfe737f70c.png)
 The abouts page
